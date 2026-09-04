@@ -1,0 +1,8 @@
+.vscode/
+.sisyphus
+.opencode
+.codegraph
+*.pdf
+
+mineru_out
+superpowers
